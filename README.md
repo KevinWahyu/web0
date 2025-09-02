@@ -35,5 +35,5 @@ Pastikan urutan item di `.list` dan `.thumbnail` konsisten, karena JavaScript me
   - Menambahkan class `.slider.next`/`.slider.prev` untuk memicu animasi CSS, lalu melepasnya setelah durasi transisi.
 
 ## Kredit
-- Desain/implementasi: @kevinwahyu
+- Desain/implementasi: @kevinwahyu @arvareza
 
